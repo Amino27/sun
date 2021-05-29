@@ -24,7 +24,7 @@ function draw(){
     fill("red");
     textSize(35);
     noStroke();
-    text("Time : 5 AM"+Time,width-240,40);
+    text("Time: 5 AM",width-2,40);
 
     // add condition to check if any background image is there to add
     if(backgroundImg){
